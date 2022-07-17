@@ -1,0 +1,54 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    margin: 25px;
+    border-radius: 15px;
+    padding: 20px;
+}
+.header{
+    height: 200px;
+    width: auto;
+    background-color: gray;
+    color: aliceblue;
+}
+a:visited {
+    text-decoration: none;
+    color: black;
+    
+}
+
+li{
+    height: auto;
+    width: auto;
+    background-color:#222831   ;
+    color: aliceblue;
+    margin-bottom: 5px;
+}
+
+.header h1 {
+    font-weight: bold;
+    font-size: 75px;
+    font-style: italic;
+    color: #fd5959;
+    -webkit-text-stroke: 1px black;
+}
+
+.content{
+    height: auto;
+    width: auto;
+    background-color: gray;
+    color: aliceblue;
+    padding-left: 30px; 
+    font-size: 20px;
+}
+
+.header-foot {
+    height: 50px;
+    width: auto;
+    border-color: black;
+    vertical-align: middle;
+    background-color: gray;
+    color: black ;
+}
